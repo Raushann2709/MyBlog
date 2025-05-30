@@ -1,4 +1,3 @@
-# MyBlog
 # 🌐 kerela-raushan – Static Website Hosted on AWS S3
 
 ## 📌 Project Overview
@@ -13,7 +12,7 @@ The website showcases the culture, beauty, and tourist attractions of **Kerala**
 
 * Static blog with responsive design
 * Fast loading with lightweight assets
-* Hosted publicly via AWS S3
+* Hosted publicly via **AWS S3**
 * Organized and easy-to-navigate structure
 
 ---
@@ -32,6 +31,7 @@ my-static-blog/
     ├── kerala1.jpg
     ├── backwaters.png
     └── food.jpg
+```
 
 ---
 
@@ -97,8 +97,8 @@ my-static-blog/
 
 ---
 
+
 ## 📄 License
 
 This project was completed as part of the **BlacBucks final assignment** and is for educational and demonstration purposes only.
-
 
