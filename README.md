@@ -97,14 +97,6 @@ my-static-blog/
 
 ---
 
-## 📸 Screenshots
-
-![Screenshot (629)](https://github.com/user-attachments/assets/73712c11-ac4e-4425-9b64-c6e2ee359231)
-![Screenshot (630)](https://github.com/user-attachments/assets/0707c162-8ec8-4b46-b6d0-5bccf34a34a4)
-
-
----
-
 ## 📄 License
 
 This project was completed as part of the **BlacBucks final assignment** and is for educational and demonstration purposes only.
